@@ -5,6 +5,7 @@
 		document.write('<script type="text/javascript" src="'+d+arguments[i]+'"></script>');
 	}
 })(
+"html5.js",
 "jquery.js",
 "common.js"
 );
